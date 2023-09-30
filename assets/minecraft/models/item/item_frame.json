@@ -5,6 +5,7 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 4368002}, "model": "minecraft:block/horebium_table"},
-		{"predicate": {"custom_model_data": 4368003}, "model": "minecraft:block/horebium_chunkloader"}
+		{"predicate": {"custom_model_data": 4368003}, "model": "minecraft:block/horebium_chunkloader"},
+		{"predicate": {"custom_model_data": 4368008}, "model": "minecraft:block/horebium_forge"}
 	]
 }
