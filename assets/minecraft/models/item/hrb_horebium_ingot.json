@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/horebium"
+    "layer0": "minecraft:item/hrb_horebium_ingot"
   }
 }

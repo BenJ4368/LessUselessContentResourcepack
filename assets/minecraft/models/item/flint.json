@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/flint"
   },
   "overrides": [
-	  {"predicate": {"custom_model_data": 4368001}, "model": "minecraft:item/horebium"},
-	  {"predicate": {"custom_model_data": 4368006}, "model": "minecraft:item/horebium_plates"}
+	  {"predicate": {"custom_model_data": 4368000}, "model": "minecraft:item/hrb_horebium_ingot"},
+	  {"predicate": {"custom_model_data": 4368002}, "model": "minecraft:item/hrb_horebium_plates"}
   ]
 }

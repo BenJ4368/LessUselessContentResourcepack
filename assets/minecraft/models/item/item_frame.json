@@ -4,8 +4,8 @@
 	  "layer0": "minecraft:item/item_frame"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 4368002}, "model": "minecraft:block/horebium_table"},
-		{"predicate": {"custom_model_data": 4368003}, "model": "minecraft:block/horebium_chunkloader"},
-		{"predicate": {"custom_model_data": 4368008}, "model": "minecraft:block/horebium_forge"}
+		{"predicate": {"custom_model_data": 4368200}, "model": "minecraft:block/hrb_horebium_table"},
+		{"predicate": {"custom_model_data": 4368201}, "model": "minecraft:block/hrb_forge"},
+		{"predicate": {"custom_model_data": 4368202}, "model": "minecraft:block/hrb_chunkloader"}
 	]
 }

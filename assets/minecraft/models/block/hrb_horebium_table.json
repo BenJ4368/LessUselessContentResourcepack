@@ -2,19 +2,21 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/horebium_chunkloader",
-		"particle": "block/horebium_chunkloader"
+		"0": "block/hrb_horebium_table_bottom",
+		"1": "block/hrb_horebium_table_side",
+		"2": "block/hrb_horebium_table_top",
+		"particle": "block/hrb_horebium_table_bottom"
 	},
 	"elements": [
 		{
 			"from": [0, 0, 0],
 			"to": [16, 16, 16],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
 		}
@@ -39,7 +41,8 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
-			"scale": [0.25, 0.25, 0.25]
+			"scale": [0.25, 0.25, 0.25],
+			"translation": [0, 0.25, 0]
 		},
 		"gui": {
 			"rotation": [30, 45, 0],
