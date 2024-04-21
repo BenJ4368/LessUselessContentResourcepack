@@ -4,9 +4,10 @@
 	  "layer0": "minecraft:item/item_frame"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 4368200}, "model": "minecraft:block/hrb_horebium_table"},
-		{"predicate": {"custom_model_data": 4368201}, "model": "minecraft:block/hrb_forge"},
-		{"predicate": {"custom_model_data": 4368202}, "model": "minecraft:block/hrb_chunkloader"},
-		{"predicate": {"custom_model_data": 4368203}, "model": "minecraft:block/hrb_soul_lantern"}
+		{"predicate": {"custom_model_data": 4368200}, "model": "minecraft:block/luc_amethyst_workbench"},
+		{"predicate": {"custom_model_data": 4368201}, "model": "minecraft:block/luc_forge"},
+		{"predicate": {"custom_model_data": 4368202}, "model": "minecraft:block/luc_chunkloader"},
+		{"predicate": {"custom_model_data": 4368203}, "model": "minecraft:block/luc_luring_post"},
+		{"predicate": {"custom_model_data": 4368204}, "model": "minecraft:block/luc_occult_workbench"}
 	]
 }

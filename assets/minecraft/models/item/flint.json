@@ -4,15 +4,15 @@
     "layer0": "minecraft:item/flint"
   },
   "overrides": [
-	  {"predicate": {"custom_model_data": 4368000}, "model": "minecraft:item/hrb_horebium_ingot"},
-	  {"predicate": {"custom_model_data": 4368002}, "model": "minecraft:item/hrb_horebium_plates"},
-	  {"predicate": {"custom_model_data": 4368403}, "model": "minecraft:item/hrb_soul_vial"},
-	  {"predicate": {"custom_model_data": 4368404}, "model": "minecraft:item/hrb_filled_soul_vial"},
-	  {"predicate": {"custom_model_data": 4368600}, "model": "minecraft:entity/hrb_skeleton_boss"},
-	  {"predicate": {"custom_model_data": 4368601}, "model": "minecraft:entity/hrb_skeleton_boss_1"},
-	  {"predicate": {"custom_model_data": 4368602}, "model": "minecraft:entity/hrb_skeleton_boss_2"},
-	  {"predicate": {"custom_model_data": 4368603}, "model": "minecraft:entity/hrb_skeleton_boss_3"},
-	  {"predicate": {"custom_model_data": 4368604}, "model": "minecraft:entity/hrb_skeleton_boss_4"},
-	  {"predicate": {"custom_model_data": 4368605}, "model": "minecraft:entity/hrb_skeleton_boss_summoning_state"}
+	  {"predicate": {"custom_model_data": 4368000}, "model": "minecraft:item/luc_amethyst_alloy_ingot"},
+	  {"predicate": {"custom_model_data": 4368002}, "model": "minecraft:item/luc_amethyst_alloy_plates"},
+	  {"predicate": {"custom_model_data": 4368403}, "model": "minecraft:item/luc_soul_vial"},
+	  {"predicate": {"custom_model_data": 4368404}, "model": "minecraft:item/luc_filled_soul_vial"},
+	  {"predicate": {"custom_model_data": 4368600}, "model": "minecraft:entity/luc_skeleton_boss"},
+	  {"predicate": {"custom_model_data": 4368601}, "model": "minecraft:entity/luc_skeleton_boss_1"},
+	  {"predicate": {"custom_model_data": 4368602}, "model": "minecraft:entity/luc_skeleton_boss_2"},
+	  {"predicate": {"custom_model_data": 4368603}, "model": "minecraft:entity/luc_skeleton_boss_3"},
+	  {"predicate": {"custom_model_data": 4368604}, "model": "minecraft:entity/luc_skeleton_boss_4"},
+	  {"predicate": {"custom_model_data": 4368605}, "model": "minecraft:entity/luc_skeleton_boss_summoning_state"}
   ]
 }

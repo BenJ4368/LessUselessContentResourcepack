@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-	  "layer0": "minecraft:item/hrb_apple_blue"
+	  "layer0": "minecraft:item/luc_apple_orange"
 	}
 }

@@ -2,7 +2,7 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"4": "block/hrb_forge",
+		"4": "block/luc_forge",
 		"particle": "block/cauldron_bottom"
 	},
 	"elements": [

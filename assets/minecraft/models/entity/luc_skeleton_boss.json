@@ -1,9 +1,9 @@
 {
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/hrb_skeleton_boss",
-		"1": "item/hrb_skeleton_boss_axe",
-		"particle": "hrb_skeleton_boss_axe"
+		"0": "item/luc_skeleton_boss",
+		"1": "item/luc_skeleton_boss_axe",
+		"particle": "luc_skeleton_boss_axe"
 	},
 	"elements": [
 		{

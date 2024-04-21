@@ -4,6 +4,6 @@
 	  "layer0": "minecraft:item/golden_sword"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 4368401}, "model": "minecraft:item/hrb_horebium_sword"}
+		{"predicate": {"custom_model_data": 4368401}, "model": "minecraft:item/luc_amethyst_sword"}
 	]
 }

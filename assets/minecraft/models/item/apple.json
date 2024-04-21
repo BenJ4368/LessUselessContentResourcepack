@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/apple"
   },
   "overrides": [
-	  {"predicate": {"custom_model_data": 4368405}, "model": "minecraft:item/hrb_apple_blue"},
-	  {"predicate": {"custom_model_data": 4368406}, "model": "minecraft:item/hrb_apple_orange"}
+	  {"predicate": {"custom_model_data": 4368405}, "model": "minecraft:item/luc_apple_blue"},
+	  {"predicate": {"custom_model_data": 4368406}, "model": "minecraft:item/luc_apple_orange"}
   ]
 }

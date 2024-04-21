@@ -1,21 +1,21 @@
 
-			HorebiumResourcepack
-					By ./BenJ
+		LessUselessContent ResourcePack
+							By ./BenJ
 
 
-Version:				a0
+Version:				0
 Minecraft Version:		1.20.1
-Developping period:		28/09/29 - present
+Developping period:		28/09/23 - present
 
 
 			Terms of use
 			============
 
-HorebiumResourcepack is free for anyone to use, modify and share within their
+LessUselessContent ResourcePack is free for anyone to use, modify and share within their
 project as long as one does it for the betterment of the community.
 
-HorebiumResourcepack was made to use with the HorebiumDatapack and is based on
-the Faithfull x32. HorebiumDatapack follows the same Terms of use.
+LessUselessContent ResourcePack was made to use with the LessUselessContent Datapack and is based on
+the Faithfull x32. LessUselessContent Datapack follows the same Terms of use.
 
 You can use parts or the entirety of this resourcepack to
 create and distribute your own, as long as:
@@ -23,25 +23,13 @@ create and distribute your own, as long as:
 	* Your resourcepack includes propper modification/addition.
 	* You appropriately credited myself, and all who I credited below.
 	* You do not sell or restrict access to any resourcepack that
-	  includes any part of the HorebiumResourcepack
+	  includes any part of the LessUselessContent ResourcePack
 
 
 			Thanks and Credits
 			==================
 
-Vanilla Tweaks:			https://vanillatweaks.net/
-	Mobs heads, loot tables
-
-TimberForge:			https://www.youtube.com/@TimberForge
-	Huge help through tutorials
-
 Zx9_WarZz				https://www.twitch.tv/zx9_warzz
-	Textures and ideas
-
-LeCreepy				#####
-	Ideas
-
-seeeyt					https://www.youtube.com/channel/UCmyJNnXwWkg-dnL4DJF395A
-	Voice and sounds
+	Textures
 
 Me, ./BenJ				https://discordapp.com/users/424644014478852097

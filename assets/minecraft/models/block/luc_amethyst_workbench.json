@@ -1,11 +1,11 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/hrb_horebium_table_bottom",
-		"1": "block/hrb_horebium_table_side1",
-		"2": "block/hrb_horebium_table_side2",
-		"3": "block/hrb_horebium_table_top",
-		"particle": "block/hrb_horebium_table_bottom"
+		"0": "block/luc_amethyst_workbench_bottom",
+		"1": "block/luc_amethyst_workbench_side1",
+		"2": "block/luc_amethyst_workbench_side2",
+		"3": "block/luc_amethyst_workbench_top",
+		"particle": "block/luc_amethyst_workbench_bottom"
 	},
 	"elements": [
 		{
